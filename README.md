@@ -64,7 +64,7 @@ websites, edit videos, and design photos professionally.
 | 🎓 **My Education** | University of Peshawar, Islamia College & AMSC |
 | 🗃️ **Projects** | Showcase of things I've built |
 | 🛤️ **My Journey** | Career & learning timeline |
-| 🤝 **Let's Connect** | GitHub, Facebook, email & phone |
+| 🤝 **Let's Connect** | GitHub and email |
 | ✉️ **Contact** | Working contact form + CV download |
 
 ### ✨ Features
@@ -125,9 +125,7 @@ python -m http.server 8000
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmadoafridi.github.io-4f7cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmadoafridi.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-AHMADOAFRIDI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHMADOAFRIDI)
-[![Facebook](https://img.shields.io/badge/Facebook-Ahmad.ali.opridai-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Ahmad.ali.opridai)
 [![Email](https://img.shields.io/badge/Email-ahmadaliafridi859%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadaliafridi859@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20325%205842004-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923255842004)
 
 </div>
 
